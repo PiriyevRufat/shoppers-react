@@ -1,0 +1,18 @@
+.feature-sect{
+    margin-top: 100px;
+}
+.feature-sect-heading h2::before{
+    content: "";
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    position: absolute;
+    width: 40px;
+    height: 2px;
+    background: #7971ea;
+}
+.feature-sect-heading{
+    padding-top: 25px;
+    position: relative;
+    text-align: center;
+}

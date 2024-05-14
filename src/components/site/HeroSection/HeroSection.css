@@ -1,0 +1,24 @@
+.hero-section{
+    background-image: url(https://preview.colorlib.com/theme/shoppers/images/hero_1.jpg.webp);
+    height: 100vh;
+    width: 100%;
+}
+.herocont{
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    height: 100%;
+}
+.herorow{
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    height: 100%;
+}
+.col-5 h1{
+    font-size: 50px;
+}
+.hero-desc p{
+    font-size: 20px;
+    line-height: 35px;
+}

@@ -1,0 +1,19 @@
+.service-sect{
+    margin-top: 100px;
+}
+.service-card-icon{
+    color: #7971ea;
+    font-size: 50px;
+}
+.service-card-desc h2{
+    font-size: 24px;
+}
+.service-card-desc p{
+    font-size: 20px;
+}
+.service-card-icon{
+    margin-right: 1.5rem
+}
+.service-card{
+    display: flex;
+}
